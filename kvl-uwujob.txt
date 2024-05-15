@@ -1,1 +1,1 @@
-{"version":"0.1","news":"Fixed the bug where sales could not be made to NPCs, The issue of not receiving money after the sale has been fixed."}
+{"version":"0.1","news":""}
