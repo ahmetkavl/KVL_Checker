@@ -1,1 +1,1 @@
-{"version":"0.2","news":"Target bugs fixed for ESX"}
+{"version":"0.3","news":"Target bugs fixed."}
