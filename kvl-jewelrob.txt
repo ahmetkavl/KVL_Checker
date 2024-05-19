@@ -1,1 +1,1 @@
-{"version":"0.3","news":"Target bugs fixed."}
+{"version":"0.4","news":"The feature of sending notifications to the police has been added. Export must be added from Functions.lua."}
