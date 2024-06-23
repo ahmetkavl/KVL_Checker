@@ -1,1 +1,1 @@
-{"version":"0.1","news":""}
+{"version":"0.2","news":"Missing grocery items were arranged."}
