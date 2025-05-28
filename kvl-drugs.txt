@@ -1,1 +1,1 @@
-{"version":"0.2","news":"Client.lua file added"}
+{"version":"0.3","news":"The ability to sell according to the number of police in the city has been added. If it says 3 in the config but there are 2 police officers in the city, you cannot sell. (You can adjust the number as you wish in the needpolice section in Config)."}
