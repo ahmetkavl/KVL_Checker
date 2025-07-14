@@ -1,1 +1,1 @@
-{"version":"0.3","news":"Fixed the error where some cocktails could not be prepared while preparing the cocktail."}
+{"version":"0.4","news":"The barista error in ESX versions has been fixed."}
