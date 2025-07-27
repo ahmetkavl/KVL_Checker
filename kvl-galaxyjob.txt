@@ -1,1 +1,1 @@
-{"version":"0.4","news":"The barista error in ESX versions has been fixed."}
+{"version":"0.5","news":"SQL error received during installation has been fixed."}
