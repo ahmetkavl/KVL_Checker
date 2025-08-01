@@ -1,1 +1,1 @@
-{"version":"0.2","news":"SQL error received during installation has been fixed."}
+{"version":"0.3","news":"A little error fixed (for ox_target users.)"}
